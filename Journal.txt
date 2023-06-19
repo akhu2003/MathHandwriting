@@ -1,0 +1,6 @@
+06082023
+-autoresize input images to test model evaluation.
+-look at following
+    -findContours for char segmentation
+    -skeltonization algorithim for better input
+    https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols/discussion/32651
